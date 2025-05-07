@@ -84,4 +84,7 @@ public class MainController {
     }
 
 
+    public void initGit(){
+        System.out.println("check git");
+    }
 }
